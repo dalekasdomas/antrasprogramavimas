@@ -1,0 +1,14 @@
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\AntraProgramavimoPraktika.csprojAssemblyReference.cache
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.Form1.resources
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.Properties.Resources.resources
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\AntraProgramavimoPraktika.csproj.GenerateResource.cache
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\AntraProgramavimoPraktika.csproj.CoreCompileInputs.cache
+C:\Users\s032890\Desktop\Antra\Antra\bin\Debug\Antra.exe.config
+C:\Users\s032890\Desktop\Antra\Antra\bin\Debug\Antra.exe
+C:\Users\s032890\Desktop\Antra\Antra\bin\Debug\Antra.pdb
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.exe
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.pdb
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.PamirstasSlaptazodis.resources
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.Prisijungimas.resources
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.Registracija.resources
+C:\Users\s032890\Desktop\Antra\Antra\obj\Debug\Antra.PatvirtinimasIseiti.resources
